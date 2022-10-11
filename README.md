@@ -33,7 +33,7 @@ Soy un desarrollador web Full-Stack nacido en Mendoza, provincia de Argentina. D
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </div>
 <br></br>
-<h2 align="center">Contacto</h2>
+<h2 align="center">Contact</h2>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/rodrigo-hernandez-4a8b5523b/">
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
