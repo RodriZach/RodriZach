@@ -2,9 +2,9 @@
 
 
 <br />
-Soy un desarrollador web Full-Stack nacido en Mendoza, provicia de Argentina. Desde chico fuí muy inquieto y curioso por aprender y crear cosas nuevas. Encontré en la programación un mundo donde aprender y crear, y se ha vuelto una pasión en mi vida. Me gusta la música y se tocar varios instrumentos, la pintura y los juegos de mesa. Me considero una persona responsable y con pensamiento crítico. Me desenvuelvo con facilidad tanto en el front como en el back.
+Soy un desarrollador web Full-Stack nacido en Mendoza, provincia de Argentina. Desde chico fuí muy inquieto y curioso por aprender y crear cosas nuevas. Encontré en la programación un mundo donde aprender y crear, y se ha vuelto una pasión en mi vida. Me gusta la música y se tocar varios instrumentos, la pintura y los juegos de mesa. Me considero una persona responsable y con pensamiento crítico. Me desenvuelvo con facilidad tanto en el front como en el back.
 <br />
-Languages and Tools:
+<h2>Languages and Tools:</h2>
 <div align="center">
 •Javascript
 •React
